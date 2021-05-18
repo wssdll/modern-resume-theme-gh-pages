@@ -1,0 +1,23 @@
+{
+  "name": "modern-resume-theme-gh-pages",
+  "version": "1.0.0",
+  "description": "node generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./generator/client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wssdll/modern-resume-theme-gh-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wssdll/modern-resume-theme-gh-pages/issues"
+  },
+  "homepage": "https://github.com/wssdll/modern-resume-theme-gh-pages#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "crypto-js": "^4.0.0"
+  }
+}
